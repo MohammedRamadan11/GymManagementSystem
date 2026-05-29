@@ -28,7 +28,7 @@ A full-featured **Gym Management System** built with ASP.NET Core following a cl
 
 ## 🏗️ Architecture
 
-
+GymManagementSystem/ ├── GymManagementBLL/ # Business Logic Layer ├── GymManagementDAL/ # Data Access Layer └── GymManagementPL/ # Presentation Layer
 ---
 
 ## 🛠️ Tech Stack
